@@ -1,3 +1,3 @@
 # KG_ALS_Exercise
 
-Run the code on the Colab or any preferred location.
+Run "KG_ALS.ipynb" on the Colab or any preferred location.
